@@ -72,6 +72,10 @@ Figure 4: An overview of the spoken dialogue systems' nine ideal capabilities.
                <td>GLM-4-Voice</td>
                <td><a href="https://github.com/THUDM/GLM-4-Voice">https://github.com/THUDM/GLM-4-Voice</a></td>
            </tr>
+          <tr>
+               <td>Mini-Omni</td>
+               <td><a href="https://github.com/gpt-omni/mini-omni">https://github.com/gpt-omni/mini-omni2</a></td>
+           </tr>
            <tr>
                <td>Mini-Omni2</td>
                <td><a href="https://github.com/gpt-omni/mini-omni2">https://github.com/gpt-omni/mini-omni2</a></td>
