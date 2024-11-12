@@ -199,7 +199,7 @@ In the Training Paradigm of Spoken Dialogue Model section, we focuse on how to a
 <div align='center'>
 <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/architecture1_new_00.png" alt="architecture1_new_00" style="zoom: 27%;" />  <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/architecture3_00.png" alt="architecture3_00" style="zoom:22%;" />
 
-Figure 5: Categorization Diagram of Spoken Dialogue Model Architectural Paradigms (left) and Diagram of Multi-stage Training Steps (right)
+Figure 5: Categorization Diagram of Spoken Dialogue Model Architectural Paradigms (above) and Diagram of Multi-stage Training Steps (below)
 </div>
 
 ## Streaming, Duplex, and Interaction
