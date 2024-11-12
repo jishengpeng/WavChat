@@ -74,7 +74,7 @@ Figure 4: An overview of the spoken dialogue systems' nine ideal capabilities.
            </tr>
           <tr>
                <td>Mini-Omni</td>
-               <td><a href="https://github.com/gpt-omni/mini-omni">https://github.com/gpt-omni/mini-omni2</a></td>
+               <td><a href="https://github.com/gpt-omni/mini-omni">https://github.com/gpt-omni/mini-omni</a></td>
            </tr>
            <tr>
                <td>Mini-Omni2</td>
