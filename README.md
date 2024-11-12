@@ -179,7 +179,7 @@ In the Training Paradigm of Spoken Dialogue Model section, we focuse on how to a
 <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/architecture1_new_00.png" alt="architecture1_new_00" style="zoom: 27%;" />  <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/architecture3_00.png" alt="architecture3_00" style="zoom:22%;" />
 
 Figure 5: Categorization Diagram of Spoken Dialogue Model Architectural Paradigms (left) and Diagram of Multi-stage Training Steps (right)
-<div align='center'>
+</div>
 
 ## Streaming, Duplex, and Interaction
 
@@ -501,8 +501,7 @@ Table 4: Music and Non-Speech Sound Datasets
 
 2. Evaluation
 
-Evaluation is a crucial aspect of training and testing spoken dialogue models. In this section, we provide a comprehensive overview of **evaluation metrics, benchmarks, and datasets** used to evaluate spoken dialogue models. The evaluation metrics are categorized into **three main types**: **task-specific metrics**, **general metrics**, and **representative benchmarks**.
-
+Evaluation is a crucial aspect of training and testing spoken dialogue models. In this section, we provide a comprehensive overview of the evaluation from **11 aspects**. The evaluation metrics are categorized into **two main types**: **Basic Evaluation**, and **Advanced Evaluation**.
 <div align='center'>
 <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241111195959293.png" alt="image-20241111195959293" style="zoom:18%;" />
    
