@@ -1,12 +1,16 @@
-![image-20241111160012489](https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241111160012489.png)
+<div align='center'>
+<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241111160012489.png" alt="image-20241111160012489" style="zoom: 30%;" />
+</div>
 
 ## Introduction
 
 This repository is the official repository of the **WavChat: A Survey of Spoken Dialogue Models** [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://arxiv.org).
 
-<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/img1-paper-list.png" alt="img1-paper-list" style="zoom: 33%;" />
+<div align='center'>
+<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/img1-paper-list.png" alt="img1-paper-list" style="zoom: 20%;" />
 
-<center>Figure 1: The timeline of existing spoken dialogue models in recent years.</center>
+Figure 1: The timeline of existing spoken dialogue models in recent years.
+</div>
 
 > Abstract
 >
@@ -16,24 +20,30 @@ This repository is the official repository of the **WavChat: A Survey of Spoken 
 
 1. The orgnization of this survey
 
-<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/WavChat - 副本.png" alt="WavChat - 副本" style="zoom:80%;" />
+<div align='center'>
+<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/WavChat - 副本.png" alt="WavChat - 副本" style="zoom:20%;" />
 
-<center>Figure 2: Orgnization of this survey.</center>
+Figure 2: Orgnization of this survey.
+</div>
 
 2. General classification of spoken dialogue systems
 
-<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/img2-method.png" alt="img2-method" style="zoom: 40%;" />
+<div align='center'>
+<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/img2-method.png" alt="img2-method" style="zoom: 35%;" />
 
-<center>Figure 3: A general overview of current spoken dialogue systems.</center>
+Figure 3: A general overview of current spoken dialogue systems.
+</div>
 
 3. Key capabilities of speech dialogue systems
 
-<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241111165006367.png" alt="image-20241111165006367" style="zoom: 33%;" />
+<div align='center'>
+<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241111165006367.png" alt="image-20241111165006367" style="zoom: 30%;" />
 
-<center>Figure 4: An overview of the spoken dialogue systems' nine ideal capabilities.</center>
+Figure 4: An overview of the spoken dialogue systems' nine ideal capabilities.
+</div>
 
 4. Publicly Available Speech Dialogue Models
-
+<div align='center'>
    <table>
        <thead>
            <tr>
@@ -141,7 +151,8 @@ This repository is the official repository of the **WavChat: A Survey of Spoken 
        </tbody>
    </table>
 
-<center>Table 1: The list of publicly available speech dialogue models and their URL</center>
+Table 1: The list of publicly available speech dialogue models and their URL
+</div>
 
 ## Representations of Spoken Dialogue Models
 
@@ -152,28 +163,34 @@ In the section Representations of Spoken Dialogue Models, we provide insights in
 | **Semantic** | Strong                               | Weak                                 | High                       | Easy                          | Less                               | Cascade                      |
 | **Acoustic** | Weak                                 | Strong                               | Low                        | Difficult                     | More                               | End-to-end                   |
 
-<center>Table 2: The comparison of semantic and acoustic representations</center>
+<div align='center'>
+Table 2: The comparison of semantic and acoustic representations
+</div>
 
 ## **Training Paradigm of Spoken Dialogue Model**
 
 In the Training Paradigm of Spoken Dialogue Model section, we focuse on how to adapt text-based large language models (LLMs) into dialogue systems with speech processing capabilities. The **selection and design of training paradigms** have a direct impact on the **performance, real-time performance, and multimodal alignment** of the model.
 
-<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/architecture1_new_00.png" alt="architecture1_new_00" style="zoom: 33%;" />     <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/architecture3_00.png" alt="architecture3_00" style="zoom:26%;" />
+<div align='center'>
+<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/architecture1_new_00.png" alt="architecture1_new_00" style="zoom: 27%;" />  <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/architecture3_00.png" alt="architecture3_00" style="zoom:22%;" />
 
-<center>Figure 5: Categorization Diagram of Spoken Dialogue Model Architectural Paradigms (left) and Diagram of Multi-stage Training Steps (right)</center>
+Figure 5: Categorization Diagram of Spoken Dialogue Model Architectural Paradigms (left) and Diagram of Multi-stage Training Steps (right)
+<div align='center'>
 
 ## Streaming, Duplex, and Interaction
 
 The Streaming, Duplex, and Interaction section mainly discusses the implementation of **streaming processing, duplex communication, and interaction capabilities** inspeech dialogue models. These features are crucial for improving the response speed, naturalness, and interactivity of the model in real-time conversations.
 
+<div align='center'>
 <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/tu_03.png" alt="tu_03" style="zoom: 33%;" />
 
-<center>Figure 6: The Example Diagram of Duplex Interaction</center>
+Figure 6: The Example Diagram of Duplex Interaction
+</div>
 
 ## Training Resources and Evaluation
 
 1. Training resources
-
+<div align='center'>
    <table>
        <caption>Datasets used in the various training stages</caption>
        <thead>
@@ -361,8 +378,10 @@ The Streaming, Duplex, and Interaction section mainly discusses the implementati
        </tbody>
    </table>
 
-   <center>Table 3: Datasets used in the various training stages</center>
+   Table 3: Datasets used in the various training stages
+</div>
 
+<div align='center'>
 <table>
   <caption>Music and Non-Speech Sound Datasets</caption>
   <thead>
@@ -473,12 +492,15 @@ The Streaming, Duplex, and Interaction section mainly discusses the implementati
   </tbody>
 </table>
 
-<center>Table 4: Music and Non-Speech Sound Datasets</center>
+Table 4: Music and Non-Speech Sound Datasets
+</div>
 
 2. Evaluation
 
+Evaluation is a crucial aspect of training and testing spoken dialogue models. In this section, we provide a comprehensive overview of **evaluation metrics, benchmarks, and datasets** used to evaluate spoken dialogue models. The evaluation metrics are categorized into **three main types**: **task-specific metrics**, **general metrics**, and **representative benchmarks**.
+
+<div align='center'>
+<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241111195959293.png" alt="image-20241111195959293" style="zoom:18%;" />
    
-
-   ![image-20241111195959293](https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241111195959293.png)
-
-<center>Table 5: This table evaluates model performance across various abilities, common tasks, representative benchmarks, and corresponding metrics.</center>
+Table 5: This table evaluates model performance across various abilities, common tasks, representative benchmarks, and corresponding metrics.
+</div>
