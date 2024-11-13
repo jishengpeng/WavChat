@@ -20,7 +20,7 @@
 
 # 🔥What's new
 
-- 2024.11.13 Release the first version of the WavChat (The full paper about 60 pages will be updated tomorrow on the arxiv)! 🎉 
+- 2024.11.14 Release the first version of the WavChat (The full paper about 60 pages will be updated 11.14 on the arxiv)! 🎉 
 
 ## Introduction
 
