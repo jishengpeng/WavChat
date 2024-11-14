@@ -105,6 +105,10 @@ Figure 4: An overview of the spoken dialogue systems' nine ideal capabilities.
             <td>FunAudioLLM</td>
             <td><a href="https://github.com/FunAudioLLM">https://github.com/FunAudioLLM</a></td>
         </tr>
+       <tr>
+            <td>Qwen-Audio</td>
+            <td><a href="https://github.com/QwenLM/Qwen-Audio">https://github.com/QwenLM/Qwen2-Audio</a></td>
+        </tr>
         <tr>
             <td>Qwen2-Audio</td>
             <td><a href="https://github.com/QwenLM/Qwen2-Audio">https://github.com/QwenLM/Qwen2-Audio</a></td>
