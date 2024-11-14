@@ -196,15 +196,176 @@ In the section Representations of Spoken Dialogue Models, we provide insights in
 Table 2: The comparison of semantic and acoustic representations
 </div>
 
+<br/>
+And we provide a comprehensive list of publicly available codec models and their URLs.
+
+<br/>
+
+<div align='center'>
+<table border="1" cellspacing="0" cellpadding="8" style="width: 100%; text-align: left;">
+  <thead>
+    <tr>
+      <th><strong>Model</strong></th>
+      <th><strong>URL</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Encodec</td>
+      <td><a href="https://github.com/facebookresearch/encodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>SoundStream</td>
+      <td><a href="https://github.com/wesbz/SoundStream">Link</a></td>
+    </tr>
+    <tr>
+      <td>DAC</td>
+      <td><a href="https://github.com/descriptinc/descript-audio-codec">Link</a></td>
+    </tr>
+    <tr>
+      <td>WavTokenizer</td>
+      <td><a href="https://github.com/jishengpeng/WavTokenizer">Link</a></td>
+    </tr>
+    <tr>
+      <td>SpeechTokenizer</td>
+      <td><a href="https://github.com/ZhangXInFD/SpeechTokenizer">Link</a></td>
+    </tr>
+    <tr>
+      <td>SNAC</td>
+      <td><a href="https://github.com/hubertsiuzdak/snac">Link</a></td>
+    </tr>
+    <tr>
+      <td>SemantiCodec</td>
+      <td><a href="https://github.com/haoheliu/SemantiCodec-inference">Link</a></td>
+    </tr>
+    <tr>
+      <td>Mimi</td>
+      <td><a href="https://github.com/kyutai-labs/moshi">Link</a></td>
+    </tr>
+    <tr>
+      <td>HiFi-Codec</td>
+      <td><a href="https://github.com/yangdongchao/AcademiCodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>FunCodec</td>
+      <td><a href="https://github.com/modelscope/FunCodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>APCodec</td>
+      <td><a href="https://github.com/YangAi520/APCodec/tree/main">Link</a></td>
+    </tr>
+    <tr>
+      <td>AudioDec</td>
+      <td><a href="https://github.com/facebookresearch/AudioDec">Link</a></td>
+    </tr>
+    <tr>
+      <td>FACodec</td>
+      <td><a href="https://github.com/lifeiteng/naturalspeech3_facodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>Language-Codec</td>
+      <td><a href="https://github.com/jishengpeng/Languagecodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>XCodec</td>
+      <td><a href="https://github.com/zhenye234/xcodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>TiCodec</td>
+      <td><a href="https://github.com/y-ren16/TiCodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>SoCodec</td>
+      <td><a href="https://github.com/hhguo/SoCodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>FUVC</td>
+      <td><a href="https://github.com/z21110008/FUVC">Link</a></td>
+    </tr>
+    <tr>
+      <td>HILCodec</td>
+      <td><a href="https://github.com/aask1357/hilcodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>LaDiffCodec</td>
+      <td><a href="https://github.com/haiciyang/LaDiffCodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>LLM-Codec</td>
+      <td><a href="https://github.com/yangdongchao/LLM-Codec">Link</a></td>
+    </tr>
+    <tr>
+      <td>SpatialCodec</td>
+      <td><a href="https://github.com/XZWY/SpatialCodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>BigCodec</td>
+      <td><a href="https://github.com/Aria-K-Alethia/BigCodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>SuperCodec</td>
+      <td><a href="https://github.com/exercise-book-yq/Supercodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>RepCodec</td>
+      <td><a href="https://github.com/mct10/RepCodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>EnCodecMAE</td>
+      <td><a href="https://github.com/habla-liaa/encodecmae">Link</a></td>
+    </tr>
+    <tr>
+      <td>MuCodec</td>
+      <td><a href="https://github.com/xuyaoxun/MuCodec">Link</a></td>
+    </tr>
+    <tr>
+      <td>SPARC</td>
+      <td><a href="https://github.com/Berkeley-Speech-Group/Speech-Articulatory-Coding">Link</a></td>
+    </tr>
+    <tr>
+      <td>BANC</td>
+      <td><a href="https://github.com/anton-jeran/MULTI-AUDIODEC">Link</a></td>
+    </tr>
+    <tr>
+      <td>SpeechRVQ</td>
+      <td><a href="https://huggingface.co/ibm/DAC.speech.v1.0">Link</a></td>
+    </tr>
+    <tr>
+      <td>QINCo</td>
+      <td><a href="https://github.com/facebookresearch/Qinco">Link</a></td>
+    </tr>
+    <tr>
+      <td>SimVQ</td>
+      <td><a href="https://github.com/youngsheen/SimVQ">Link</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align='center'>
+Table 3: A comprehensive list of publicly available codec models and their URLs.
+</div>
+
 ## **Training Paradigm of Spoken Dialogue Model**
 
 In the Training Paradigm of Spoken Dialogue Model section, we focuse on how to adapt text-based large language models (LLMs) into dialogue systems with speech processing capabilities. The **selection and design of training paradigms** have a direct impact on the **performance, real-time performance, and multimodal alignment** of the model.
 
 <div align='center'>
-<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/architecture1_new_00.png" alt="architecture1_new_00" style="zoom: 27%;" />  <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/architecture3_00.png" alt="architecture3_00" style="zoom:22%;" />
-
-Figure 5: Categorization Diagram of Spoken Dialogue Model Architectural Paradigms (above) and Diagram of Multi-stage Training Steps (below)
+<img src='https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241113172433940.png' />
 </div>
+
+<div align='center'>
+Figure 5: Categorization Diagram of Spoken Dialogue Model Architectural Paradigms (left) and Diagram of Multi-stage Training Steps (right)
+</div>
+
+<br/>
+And we also comprehensively summarize an overview of <b>the Alignment Post-training Methods</b>.
+
+<br/>
+
+<div align='center'><img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241114142618698.png" alt="image-20241114142618698" style="zoom:30%;" /> </div>
+
+<div align='center'>Figure 6: Alignment Post-training Methods</div>
 
 ## Streaming, Duplex, and Interaction
 
@@ -213,7 +374,7 @@ The Streaming, Duplex, and Interaction section mainly discusses the implementati
 <div align='center'>
 <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/tu_03.png" alt="tu_03" style="zoom: 33%;" />
 
-Figure 6: The Example Diagram of Duplex Interaction
+Figure 7: The Example Diagram of Duplex Interaction
 </div>
 
 ## Training Resources and Evaluation
@@ -408,7 +569,7 @@ Figure 6: The Example Diagram of Duplex Interaction
     </tbody>
 </table>
 
-Table 3: Datasets used in the various training stages
+Table 4: Datasets used in the various training stages
 </div>
 
 <div align='center'>
@@ -522,16 +683,16 @@ Table 3: Datasets used in the various training stages
 </tbody>
 </table>
 
-Table 4: Music and Non-Speech Sound Datasets
+Table 5: Music and Non-Speech Sound Datasets
 </div>
 
 #### 2. Evaluation
 
 Evaluation is a crucial aspect of training and testing spoken dialogue models. In this section, we provide a comprehensive overview of the evaluation from **11 aspects**. The evaluation metrics are categorized into **two main types**: **Basic Evaluation**, and **Advanced Evaluation**.
-<div align='center'>
-<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241111195959293.png" alt="image-20241111195959293" style="zoom:18%;" />
+<div align='center'><img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241114143903640.png" alt="image-20241114143903640" style="zoom: 25%;" /></div>
 
-Table 5: This table evaluates model performance across various abilities, common tasks, representative benchmarks, and corresponding metrics.
+<div align='center'>
+Table 6: This table evaluates model performance across various abilities, common tasks, representative benchmarks, and corresponding metrics.
 </div>
 
 ## Cite
