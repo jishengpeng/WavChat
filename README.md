@@ -203,6 +203,8 @@ And we provide a comprehensive list of publicly available codec models and their
 
 <div align='center'>
 <table border="1" cellspacing="0" cellpadding="8" style="width: 100%; text-align: left;">
+  <table border="1" cellspacing="0" cellpadding="8" style="width: 100%; text-align: left;">
+
   <thead>
     <tr>
       <th><strong>Model</strong></th>
@@ -212,133 +214,135 @@ And we provide a comprehensive list of publicly available codec models and their
   <tbody>
     <tr>
       <td>Encodec</td>
-      <td><a href="https://github.com/facebookresearch/encodec">Link</a></td>
+      <td><a href="https://github.com/facebookresearch/encodec">https://github.com/facebookresearch/encodec</a></td>
     </tr>
     <tr>
       <td>SoundStream</td>
-      <td><a href="https://github.com/wesbz/SoundStream">Link</a></td>
+      <td><a href="https://github.com/wesbz/SoundStream">https://github.com/wesbz/SoundStream</a></td>
     </tr>
     <tr>
       <td>DAC</td>
-      <td><a href="https://github.com/descriptinc/descript-audio-codec">Link</a></td>
+      <td><a href="https://github.com/descriptinc/descript-audio-codec">https://github.com/descriptinc/descript-audio-codec</a></td>
     </tr>
     <tr>
       <td>WavTokenizer</td>
-      <td><a href="https://github.com/jishengpeng/WavTokenizer">Link</a></td>
+      <td><a href="https://github.com/jishengpeng/WavTokenizer">https://github.com/jishengpeng/WavTokenizer</a></td>
     </tr>
     <tr>
       <td>SpeechTokenizer</td>
-      <td><a href="https://github.com/ZhangXInFD/SpeechTokenizer">Link</a></td>
+      <td><a href="https://github.com/ZhangXInFD/SpeechTokenizer">https://github.com/ZhangXInFD/SpeechTokenizer</a></td>
     </tr>
     <tr>
       <td>SNAC</td>
-      <td><a href="https://github.com/hubertsiuzdak/snac">Link</a></td>
+      <td><a href="https://github.com/hubertsiuzdak/snac">https://github.com/hubertsiuzdak/snac</a></td>
     </tr>
     <tr>
       <td>SemantiCodec</td>
-      <td><a href="https://github.com/haoheliu/SemantiCodec-inference">Link</a></td>
+      <td><a href="https://github.com/haoheliu/SemantiCodec-inference">https://github.com/haoheliu/SemantiCodec-inference</a></td>
     </tr>
     <tr>
       <td>Mimi</td>
-      <td><a href="https://github.com/kyutai-labs/moshi">Link</a></td>
+      <td><a href="https://github.com/kyutai-labs/moshi">https://github.com/kyutai-labs/moshi</a></td>
     </tr>
     <tr>
       <td>HiFi-Codec</td>
-      <td><a href="https://github.com/yangdongchao/AcademiCodec">Link</a></td>
+      <td><a href="https://github.com/yangdongchao/AcademiCodec">https://github.com/yangdongchao/AcademiCodec</a></td>
     </tr>
     <tr>
       <td>FunCodec</td>
-      <td><a href="https://github.com/modelscope/FunCodec">Link</a></td>
+      <td><a href="https://github.com/modelscope/FunCodec">https://github.com/modelscope/FunCodec</a></td>
     </tr>
     <tr>
       <td>APCodec</td>
-      <td><a href="https://github.com/YangAi520/APCodec/tree/main">Link</a></td>
+      <td><a href="https://github.com/YangAi520/APCodec/tree/main">https://github.com/YangAi520/APCodec/tree/main</a></td>
     </tr>
     <tr>
       <td>AudioDec</td>
-      <td><a href="https://github.com/facebookresearch/AudioDec">Link</a></td>
+      <td><a href="https://github.com/facebookresearch/AudioDec">https://github.com/facebookresearch/AudioDec</a></td>
     </tr>
     <tr>
       <td>FACodec</td>
-      <td><a href="https://github.com/lifeiteng/naturalspeech3_facodec">Link</a></td>
+      <td><a href="https://github.com/lifeiteng/naturalspeech3_facodec">https://github.com/lifeiteng/naturalspeech3_facodec</a></td>
     </tr>
     <tr>
       <td>Language-Codec</td>
-      <td><a href="https://github.com/jishengpeng/Languagecodec">Link</a></td>
+      <td><a href="https://github.com/jishengpeng/Languagecodec">https://github.com/jishengpeng/Languagecodec</a></td>
     </tr>
     <tr>
       <td>XCodec</td>
-      <td><a href="https://github.com/zhenye234/xcodec">Link</a></td>
+      <td><a href="https://github.com/zhenye234/xcodec">https://github.com/zhenye234/xcodec</a></td>
     </tr>
     <tr>
       <td>TiCodec</td>
-      <td><a href="https://github.com/y-ren16/TiCodec">Link</a></td>
+      <td><a href="https://github.com/y-ren16/TiCodec">https://github.com/y-ren16/TiCodec</a></td>
     </tr>
     <tr>
       <td>SoCodec</td>
-      <td><a href="https://github.com/hhguo/SoCodec">Link</a></td>
+      <td><a href="https://github.com/hhguo/SoCodec">https://github.com/hhguo/SoCodec</a></td>
     </tr>
     <tr>
       <td>FUVC</td>
-      <td><a href="https://github.com/z21110008/FUVC">Link</a></td>
+      <td><a href="https://github.com/z21110008/FUVC">https://github.com/z21110008/FUVC</a></td>
     </tr>
     <tr>
       <td>HILCodec</td>
-      <td><a href="https://github.com/aask1357/hilcodec">Link</a></td>
+      <td><a href="https://github.com/aask1357/hilcodec">https://github.com/aask1357/hilcodec</a></td>
     </tr>
     <tr>
       <td>LaDiffCodec</td>
-      <td><a href="https://github.com/haiciyang/LaDiffCodec">Link</a></td>
+      <td><a href="https://github.com/haiciyang/LaDiffCodec">https://github.com/haiciyang/LaDiffCodec</a></td>
     </tr>
     <tr>
       <td>LLM-Codec</td>
-      <td><a href="https://github.com/yangdongchao/LLM-Codec">Link</a></td>
+      <td><a href="https://github.com/yangdongchao/LLM-Codec">https://github.com/yangdongchao/LLM-Codec</a></td>
     </tr>
     <tr>
       <td>SpatialCodec</td>
-      <td><a href="https://github.com/XZWY/SpatialCodec">Link</a></td>
+      <td><a href="https://github.com/XZWY/SpatialCodec">https://github.com/XZWY/SpatialCodec</a></td>
     </tr>
     <tr>
       <td>BigCodec</td>
-      <td><a href="https://github.com/Aria-K-Alethia/BigCodec">Link</a></td>
+      <td><a href="https://github.com/Aria-K-Alethia/BigCodec">https://github.com/Aria-K-Alethia/BigCodec</a></td>
     </tr>
     <tr>
       <td>SuperCodec</td>
-      <td><a href="https://github.com/exercise-book-yq/Supercodec">Link</a></td>
+      <td><a href="https://github.com/exercise-book-yq/Supercodec">https://github.com/exercise-book-yq/Supercodec</a></td>
     </tr>
     <tr>
       <td>RepCodec</td>
-      <td><a href="https://github.com/mct10/RepCodec">Link</a></td>
+      <td><a href="https://github.com/mct10/RepCodec">https://github.com/mct10/RepCodec</a></td>
     </tr>
     <tr>
       <td>EnCodecMAE</td>
-      <td><a href="https://github.com/habla-liaa/encodecmae">Link</a></td>
+      <td><a href="https://github.com/habla-liaa/encodecmae">https://github.com/habla-liaa/encodecmae</a></td>
     </tr>
     <tr>
       <td>MuCodec</td>
-      <td><a href="https://github.com/xuyaoxun/MuCodec">Link</a></td>
+      <td><a href="https://github.com/xuyaoxun/MuCodec">https://github.com/xuyaoxun/MuCodec</a></td>
     </tr>
     <tr>
       <td>SPARC</td>
-      <td><a href="https://github.com/Berkeley-Speech-Group/Speech-Articulatory-Coding">Link</a></td>
+      <td><a href="https://github.com/Berkeley-Speech-Group/Speech-Articulatory-Coding">https://github.com/Berkeley-Speech-Group/Speech-Articulatory-Coding</a></td>
     </tr>
     <tr>
       <td>BANC</td>
-      <td><a href="https://github.com/anton-jeran/MULTI-AUDIODEC">Link</a></td>
+      <td><a href="https://github.com/anton-jeran/MULTI-AUDIODEC">https://github.com/anton-jeran/MULTI-AUDIODEC</a></td>
     </tr>
     <tr>
       <td>SpeechRVQ</td>
-      <td><a href="https://huggingface.co/ibm/DAC.speech.v1.0">Link</a></td>
+      <td><a href="https://huggingface.co/ibm/DAC.speech.v1.0">https://huggingface.co/ibm/DAC.speech.v1.0</a></td>
     </tr>
     <tr>
       <td>QINCo</td>
-      <td><a href="https://github.com/facebookresearch/Qinco">Link</a></td>
+      <td><a href="https://github.com/facebookresearch/Qinco">https://github.com/facebookresearch/Qinco</a></td>
     </tr>
     <tr>
       <td>SimVQ</td>
-      <td><a href="https://github.com/youngsheen/SimVQ">Link</a></td>
+      <td><a href="https://github.com/youngsheen/SimVQ">https://github.com/youngsheen/SimVQ</a></td>
     </tr>
   </tbody>
+</table>
+
 </table>
 </div>
 
