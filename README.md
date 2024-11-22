@@ -20,7 +20,7 @@
 
 # 🔥What's new
 
-- 2024.11.14 Release the first version of the WavChat in the github (The full paper will also be updated on the arxiv soon)! 🎉 
+- 2024.11.22 We release WavChat (A survey of spoken dialogue models 60 pages)! 🎉 
 
 ## Introduction
 
