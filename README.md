@@ -20,7 +20,7 @@
 
 # 🔥What's new
 
-- 2024.11.22 We release WavChat (A survey of spoken dialogue models 60 pages)! 🎉 
+- 2024.11.22 We release WavChat (A survey of spoken dialogue models about 60 pages) on arxiv! 🎉 
 
 ## Introduction
 
