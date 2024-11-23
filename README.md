@@ -706,8 +706,13 @@ Table 6: This table evaluates model performance across various abilities, common
 ## Cite
 
 ```bibtex
-@article{WavChat,
-  title={WavChat: A Survey of Spoken Dialogue Models},
-  ...,
+@misc{ji2024wavchatsurveyspokendialogue,
+      title={WavChat: A Survey of Spoken Dialogue Models}, 
+      author={Shengpeng Ji and Yifu Chen and Minghui Fang and Jialong Zuo and Jingyu Lu and Hanting Wang and Ziyue Jiang and Long Zhou and Shujie Liu and Xize Cheng and Xiaoda Yang and Zehan Wang and Qian Yang and Jian Li and Yidi Jiang and Jingzhen He and Yunfei Chu and Jin Xu and Zhou Zhao},
+      year={2024},
+      eprint={2411.13577},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2411.13577}, 
 }
 ```
