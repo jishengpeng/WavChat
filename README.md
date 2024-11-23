@@ -157,6 +157,10 @@ Figure 4: An overview of the spoken dialogue systems' nine ideal capabilities.
             <td>SpeechGPT-Gen</td>
             <td><a href="https://github.com/0nutation/SpeechGPT">https://github.com/0nutation/SpeechGPT</a></td>
         </tr>
+       <tr>
+            <td>WavLLM</td>
+            <td><a href="https://github.com/microsoft/SpeechT5/tree/main/WavLLM">https://github.com/microsoft/SpeechT5/tree/main/WavLLM</a></td>
+        </tr>
         <tr>
             <td>Westlake-Omni</td>
             <td><a href="https://github.com/xinchen-ai/Westlake-Omni">https://github.com/xinchen-ai/Westlake-Omni</a></td>
