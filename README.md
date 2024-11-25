@@ -405,6 +405,13 @@ Figure 7: The Example Diagram of Duplex Interaction
     <tbody>
         <tr>
             <td rowspan="13"><b>Modal Alignment</b></td>
+            <td>Multilingual TTS</td>
+            <td>Emilia</td>
+            <td>101k hrs</td>
+            <td><a href="https://huggingface.co/datasets/amphion/Emilia-Dataset">Link</a></td>
+            <td>Text, Speech</td>
+        </tr>
+        <tr>     
             <td>Mandarin ASR</td>
             <td>AISHELL-1</td>
             <td>170 hrs</td>
