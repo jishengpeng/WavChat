@@ -404,7 +404,7 @@ Figure 7: The Example Diagram of Duplex Interaction
     </thead>
     <tbody>
         <tr>
-            <td rowspan="13"><b>Modal Alignment</b></td>
+            <td rowspan="14"><b>Modal Alignment</b></td>
             <td>Multilingual TTS</td>
             <td>Emilia</td>
             <td>101k hrs</td>
