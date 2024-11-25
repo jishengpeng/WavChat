@@ -24,7 +24,7 @@
 
 ## Introduction
 
-This repository is the official repository of the **WavChat: A Survey of Spoken Dialogue Models** [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://arxiv.org).
+This repository is the official repository of the **WavChat: A Survey of Spoken Dialogue Models** [![Paper page](https://huggingface.co/datasets/huggingface/badges/raw/main/paper-page-sm-dark.svg)](https://arxiv.org/abs/2411.13577).
 
 <div align='center'>
 <img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/image-20241112151419833.png" alt="img1-paper-list" style="zoom: 20%;" />
