@@ -42,7 +42,9 @@ Figure 1: The timeline of existing spoken dialogue models in recent years.
 #### 1. The organization of this survey
 
 <div align='center'>
-<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/img4-framework-v1_00.png" alt="WavChat - 副本" style="zoom:16%;" />
+<img src="https://cdn.jsdelivr.net/gh/MYJOKERML/imgbed/matebook14/img4-framework-v7_00.png" alt="WavChat - 副本" style="zoom:16%;" />
+
+
 
 Figure 2: Orgnization of this survey.
 </div>
