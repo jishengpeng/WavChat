@@ -20,7 +20,8 @@
 
 # 🔥What's new
 
-- 2024.11.22 We release WavChat (A survey of spoken dialogue models about 60 pages) on arxiv! 🎉 
+- 2024.11.22: We release WavChat (A survey of spoken dialogue models about 60 pages) on arxiv! 🎉
+- 2024.08.31: We release [WavTokenizer](https://github.com/jishengpeng/WavTokenizer) on arxiv.
 
 ## Introduction
 
