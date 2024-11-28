@@ -124,6 +124,10 @@ Figure 4: An overview of the spoken dialogue systems' nine ideal capabilities.
             <td>Audio Flamingo</td>
             <td><a href="https://github.com/NVIDIA/audio-flamingo">https://github.com/NVIDIA/audio-flamingo</a></td>
         </tr>
+       <tr>
+            <td>Ultravox</td>
+            <td><a href="https://github.com/fixie-ai/ultravox">https://github.com/fixie-ai/ultravox</a></td>
+        </tr>
         <tr>
             <td>Spirit LM</td>
             <td><a href="https://github.com/facebookresearch/spiritlm">https://github.com/facebookresearch/spiritlm</a></td>
